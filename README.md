@@ -1,5 +1,5 @@
 # clustering_and_probability_project
-Python project showcasing the ability to process, transform and visualize given datasets. Three distinct datasets used and three different python files for each dataset.
+Python project showcasing the ability to process, transform and visualize given datasets. Four distinct datasets used and four different python files for each dataset.
 
 The "iris_main.py" uses the scikit-learn dataset "iris" and uses this dataset to process and visualize the given data with appropriate plots and graphs.
 
